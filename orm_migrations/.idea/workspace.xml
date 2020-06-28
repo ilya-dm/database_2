@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be749976-bc33-4090-a544-a1e59d07af40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../m2m-relations/articles/management/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m2m-relations/articles/management/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m2m-relations/articles/management/commands/import_articles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/management/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/management/commands/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m2m-relations/articles/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../m2m-relations/articles/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m2m-relations/articles/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../m2m-relations/articles/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m2m-relations/articles/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../m2m-relations/articles/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m2m-relations/templates/articles/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/../m2m-relations/templates/articles/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/school/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/school/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/school/students_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/school/students_list.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1dwAuHIrSVuiWehu1vfz3liUlY4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/netology_django-master/netology_django-master/5._Data_Base_2/orm_migrations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\netology\django\course\dj-homeworks\databases_2\orm_migrations\school\management\commands" />
+      <recent name="C:\netology\django\course\dj-homeworks\databases_2\orm_migrations" />
+      <recent name="C:\netology\django\course\dj-homeworks\databases_2\orm_migrations\school" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django Server.orm_migrations">
+    <configuration name="loaddata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="orm_migrations" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/school" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\netology\django\course\dj-homeworks\databases_2\orm_migrations\school\management\commands\loaddata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="orm_migrations" type="Python.DjangoServer" factoryName="Django server">
+      <module name="orm_migrations" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="website.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.loaddata" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be749976-bc33-4090-a544-a1e59d07af40" name="Default Changelist" comment="" />
+      <created>1593326002840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593326002840</updated>
+      <workItem from="1593326004270" duration="14774000" />
+      <workItem from="1593364290061" duration="971000" />
+      <workItem from="1593365285402" duration="780000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="726" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593349013781">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="726" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1593349013781" />
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1593358878785">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1593358878785" />
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1593366065492">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593366065492" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1593366065492">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593366065492" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1593366065492">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593366065492" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1593366065492">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593366065492" />
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom" timestamp="1593363678372">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593363678372" />
+    <state width="1877" height="363" key="GridCell.Tab.1.center" timestamp="1593363678372">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593363678372" />
+    <state width="1877" height="363" key="GridCell.Tab.1.left" timestamp="1593363678372">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593363678372" />
+    <state width="1877" height="363" key="GridCell.Tab.1.right" timestamp="1593363678372">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593363678372" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1593365335707">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1080@0.0.1920.1080" timestamp="1593365335707" />
+    <state x="834" y="427" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1593364601011">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="834" y="427" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1080@0.0.1920.1080" timestamp="1593364601011" />
+    <state x="540" y="195" key="com.intellij.database.dbimport.ImportDialog" timestamp="1593364593865">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="540" y="195" key="com.intellij.database.dbimport.ImportDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593364593865" />
+    <state x="756" y="360" width="408" height="355" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1593357376342">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="756" y="360" width="408" height="355" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593357376342" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/orm_migrations$loaddata.coverage" NAME="loaddata Coverage Results" MODIFIED="1593329816493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/school" />
+  </component>
+</project>
